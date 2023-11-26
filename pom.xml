@@ -9,10 +9,18 @@
     <version>1.0-SNAPSHOT</version>
 
     <properties>
+<<<<<<< HEAD
         <maven.compiler.source>19.0.2</maven.compiler.source>
         <maven.compiler.target>19.0.2</maven.compiler.target>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
     </properties>
 
 
+=======
+        <maven.compiler.source>19</maven.compiler.source>
+        <maven.compiler.target>19</maven.compiler.target>
+        <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
+    </properties>
+
+>>>>>>> 5a2bb0bd341dd37939741bab5fbb11b260a61275
 </project>

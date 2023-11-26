@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 <?xml version="1.0" encoding="UTF-8"?>
 <beans xmlns="http://www.springframework.org/schema/beans"
        xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
@@ -12,3 +13,6 @@
     </bean>
 
 </beans>
+=======
+<?xml version="1.0" encoding="UTF-8"?>
+>>>>>>> 5a2bb0bd341dd37939741bab5fbb11b260a61275
